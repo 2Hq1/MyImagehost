@@ -1,0 +1,2 @@
+# MyImagehost
+For PicGo!
